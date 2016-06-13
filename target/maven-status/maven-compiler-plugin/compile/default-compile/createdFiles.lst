@@ -1,0 +1,4 @@
+com\websocketdemo\controllers\AppController.class
+com\websocketdemo\controllers\WebSocketController.class
+com\websocketdemo\models\Stock.class
+com\websocketdemo\controllers\WebSocketController$1.class
